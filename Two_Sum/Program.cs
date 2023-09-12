@@ -27,7 +27,6 @@ public class Solution
         Console.WriteLine(resList2);
         Console.WriteLine($"Sum before reversing:{res}");
         int result = int.Parse(new string(res.ToString().Reverse().ToArray()));
-        
         Console.WriteLine($"Numbers from first list: {resList1} + numbers from second list: {resList2} reversed result = {result}");
     }
 
