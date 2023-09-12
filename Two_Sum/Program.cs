@@ -1,4 +1,4 @@
-﻿class TwoSum
+﻿class AddingReversedNumbers
 {
     static void Main(string[] args)
     {
