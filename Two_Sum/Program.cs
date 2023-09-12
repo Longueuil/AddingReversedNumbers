@@ -10,6 +10,7 @@
         List<int> list2 = Console.ReadLine().Split(',').Select(int.Parse).ToList();
 
         solution.SumOfRevercedNumbers(list1, list2);
+        Console.WriteLine("Up to date");
 
     }
 }
